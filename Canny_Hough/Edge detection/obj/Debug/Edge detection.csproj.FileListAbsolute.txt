@@ -56,3 +56,19 @@ C:\Users\volchok\Desktop\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_d
 C:\Users\volchok\Desktop\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.CannyDetection.resources
 C:\Users\volchok\Desktop\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csproj.GenerateResource.cache
 C:\Users\volchok\Desktop\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csproj.CoreCompileInputs.cache
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\bin\Debug\Edge detection.exe.config
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\bin\Debug\Edge detection.exe
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\bin\Debug\Edge detection.pdb
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csprojAssemblyReference.cache
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.Form1.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.About.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.MainChooseForm.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.FadeLaplasDetection.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.HoughForm.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.ImageProcessingForm.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.Properties.Resources.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.CannyDetection.resources
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csproj.GenerateResource.cache
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csproj.CoreCompileInputs.cache
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.exe
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.pdb

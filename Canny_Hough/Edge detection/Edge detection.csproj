@@ -74,6 +74,7 @@
     <Compile Include="ImageProcessing\Filters.cs" />
     <Compile Include="ImageProcessing\Hough.cs" />
     <Compile Include="ImageProcessing\LoG.cs" />
+    <Compile Include="ImageProcessing\Tests.cs" />
     <Compile Include="LoadAndSaveImage.cs" />
     <Compile Include="Forms\MainChooseForm.cs">
       <SubType>Form</SubType>
