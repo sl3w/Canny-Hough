@@ -70,11 +70,17 @@
     <Compile Include="Forms\ImageProcessingForm.Designer.cs">
       <DependentUpon>ImageProcessingForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Tests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tests.Designer.cs">
+      <DependentUpon>Tests.cs</DependentUpon>
+    </Compile>
     <Compile Include="ImageProcessing\Edges.cs" />
     <Compile Include="ImageProcessing\Filters.cs" />
     <Compile Include="ImageProcessing\Hough.cs" />
     <Compile Include="ImageProcessing\LoG.cs" />
-    <Compile Include="ImageProcessing\Tests.cs" />
+    <Compile Include="ImageProcessing\TestsProcessing.cs" />
     <Compile Include="LoadAndSaveImage.cs" />
     <Compile Include="Forms\MainChooseForm.cs">
       <SubType>Form</SubType>
@@ -114,6 +120,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ImageProcessingForm.resx">
       <DependentUpon>ImageProcessingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Tests.resx">
+      <DependentUpon>Tests.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

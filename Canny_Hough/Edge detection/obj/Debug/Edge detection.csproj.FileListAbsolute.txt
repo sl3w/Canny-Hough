@@ -72,3 +72,4 @@ D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.cs
 D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.csproj.CoreCompileInputs.cache
 D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.exe
 D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge detection.pdb
+D:\Учеба\Canny-Hough\Canny_Hough\Edge detection\obj\Debug\Edge_detection.Forms.Tests.resources

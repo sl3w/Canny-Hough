@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Edge_detection.Forms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +18,7 @@ namespace Edge_detection
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainChooseForm());
+            //Application.Run(new Tests());
         }
     }
 }
