@@ -100,7 +100,7 @@ namespace Edge_detection
         }
 
         //метрика Прэтта
-        private double CalcIMP()
+        public double CalcIMP()
         {
             double s = 0;
             double alpha = 0.1;
@@ -129,7 +129,7 @@ namespace Edge_detection
         }
 
         //комплексная метрика
-        private double CalcD4()
+        public double CalcD4()
         {
             double D4 = Math.Pow(CalcPCO() - 1, 2) + Math.Pow(CalcIMP() - 1, 2) + CalcPnd() + CalcPfa();
             return Math.Sqrt(D4);

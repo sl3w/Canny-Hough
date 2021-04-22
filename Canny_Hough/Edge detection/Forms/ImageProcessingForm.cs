@@ -1,4 +1,5 @@
-﻿using Edge_detection.Properties;
+﻿using Edge_detection.Forms;
+using Edge_detection.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -640,6 +641,11 @@ namespace Edge_detection
         {
             if (pictureBox1.Image != null)
                 new HoughForm(pictureBox1.Image, uploadedImage, "lines").Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            new Tests(new Bitmap(pictureBox1.Image)).Show();
         }
     }
 }

@@ -12,9 +12,10 @@ namespace Edge_detection.Forms
 {
     public partial class Tests : Form
     {
-        public Tests()
+        public Tests(Bitmap imageForTest)
         {
             InitializeComponent();
+            pictureBox1.Image = uploadedImage = imageForTest;
         }
 
         private Image uploadedImage;
@@ -104,9 +105,11 @@ namespace Edge_detection.Forms
         private void button3_Click(object sender, EventArgs e)
         {
             var Test = new TestsProcessing(new Bitmap(uploadedImage), new Bitmap(uploadedImage2));
-            label2.Text = "PCO:" + Test.CalcPCO();
+            label2.Text = "Pco=" + Test.CalcPCO();
             label4.Text = "Pnd:" + Test.CalcPnd();
             label5.Text = "Pfa:" + Test.CalcPfa();
+            //label8.Text = "IMP:" + Test.CalcIMP();
+            //label10.Text = "D4=" + Test.CalcD4();
         }
     }
 }
